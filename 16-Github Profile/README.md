@@ -32,4 +32,4 @@ GitHub-style profile card with avatar, name, username, and edit button.
 - Button design
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/16-Github%20Profile/)

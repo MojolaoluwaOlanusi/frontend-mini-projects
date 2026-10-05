@@ -32,4 +32,4 @@ JavaScript palindrome checker tool for validating palindromic strings.
 - Input validation
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/36-Palindrome%20Checker/)

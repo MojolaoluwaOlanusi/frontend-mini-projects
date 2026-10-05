@@ -32,4 +32,4 @@ CSS recreation of a playing card (Ace of Spades) with proper positioning.
 - Section-based layouts
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/18-Ace%20of%20Spades/)

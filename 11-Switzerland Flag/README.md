@@ -28,4 +28,4 @@ CSS recreation of the Swiss flag with cross design.
 - Precise element positioning
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/11-Switzerland%20Flag/)

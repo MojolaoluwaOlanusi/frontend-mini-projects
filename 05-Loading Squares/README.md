@@ -29,4 +29,4 @@ Animated loading squares with staggered animations for a dynamic effect.
 - Combining multiple animated elements
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/05-Loading%20Squares/)

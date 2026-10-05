@@ -29,4 +29,4 @@ Text carousel that cycles through different words using CSS animations.
 - Creating dynamic text effects
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/07-Word%20Carousel/)

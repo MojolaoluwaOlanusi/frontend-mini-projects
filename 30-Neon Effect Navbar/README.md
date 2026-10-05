@@ -33,4 +33,4 @@ Neon-styled navigation bar with icons and glow effects.
 - Hover animations
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/30-Neon%20Effect%20Navbar/)

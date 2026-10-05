@@ -29,4 +29,4 @@ Neon underline effect on hover using pseudo-elements.
 - Text decoration alternatives
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/35-Neon%20Underline/)

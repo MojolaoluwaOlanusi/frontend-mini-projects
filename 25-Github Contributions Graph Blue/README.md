@@ -38,4 +38,4 @@ GitHub-style contributions graph (blue version) with JavaScript generation.
 - JavaScript DOM manipulation
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/25-Github%20Contributions%20Graph%20Blue/)

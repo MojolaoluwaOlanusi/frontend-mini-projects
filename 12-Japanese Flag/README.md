@@ -29,4 +29,4 @@ CSS recreation of the Japanese flag with centered red circle.
 - Precise positioning
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/12-Japanese%20Flag/)

@@ -29,4 +29,4 @@ Static progress bar component showing completion status.
 - Container-based layouts
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/20-Progress%20Bar/)

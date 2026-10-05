@@ -31,4 +31,4 @@ A functional toggle switch component using checkbox.
 - Smooth transitions
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/17-Toggle%20Switch/)

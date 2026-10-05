@@ -42,4 +42,4 @@ Secure password generator with customizable options.
 - DOM manipulation
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/37-Password%20Generator/)

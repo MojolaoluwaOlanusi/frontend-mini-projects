@@ -29,4 +29,4 @@ Animated loading circles using CSS keyframe animations.
 - Timing functions for different effects
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/04-Loading%20Circles/)

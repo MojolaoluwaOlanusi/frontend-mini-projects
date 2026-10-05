@@ -31,4 +31,4 @@ Instagram-style stories menu with circular avatar images and status indicators.
 - Social media UI patterns
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/23-Instagram%20Stories%20Menu/)

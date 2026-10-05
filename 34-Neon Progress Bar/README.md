@@ -37,4 +37,4 @@ Animated neon progress bar with JavaScript-driven animations.
 - Animation timing
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/34-Neon%20Progress%20Bar/)

@@ -29,4 +29,4 @@ Neon-style indicator component with glowing effects.
 - Color coordination
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/31-Neon%20Indicator/)

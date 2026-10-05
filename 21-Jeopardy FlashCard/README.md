@@ -30,4 +30,4 @@ Flip card component with front and back faces for quiz-style content.
 - 3D CSS techniques
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/21-Jeopardy%20FlashCard/)

@@ -29,4 +29,4 @@ Animated loading spinner using border-radius tricks.
 - Animation timing functions
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/22-Loading%20Spinner/)

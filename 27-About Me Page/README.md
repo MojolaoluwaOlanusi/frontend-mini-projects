@@ -35,4 +35,4 @@ Personal about me page with profile image, description, and action buttons.
 - Responsive design principles
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/27-About%20Me%20Page/)

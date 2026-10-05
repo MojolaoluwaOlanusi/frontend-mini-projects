@@ -29,4 +29,4 @@ Concentric circles creating an archery target pattern using nested divs.
 - Building geometric shapes
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/06-Archery%20Target/)

@@ -32,4 +32,4 @@ A card component displaying project information with thumbnail, avatar, and stat
 - Adding depth with shadows
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/03-Code%20Pen%20Panel/)

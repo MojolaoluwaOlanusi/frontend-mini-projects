@@ -32,4 +32,4 @@ Functional stopwatch with start, stop, and reset functionality.
 - Time calculations
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/38-StopWatch/)

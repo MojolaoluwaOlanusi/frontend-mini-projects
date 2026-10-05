@@ -29,4 +29,4 @@ Animated progress bar with smooth transitions and width changes.
 - Progress visualization
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/24-Animated%20Progress%20Bar/)

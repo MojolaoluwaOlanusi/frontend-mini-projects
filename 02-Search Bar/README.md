@@ -30,4 +30,4 @@ A clean and modern search input field with placeholder text.
 - Proper labeling for screen readers
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/02-Search%20Bar/)

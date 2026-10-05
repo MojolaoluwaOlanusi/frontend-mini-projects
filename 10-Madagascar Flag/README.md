@@ -28,4 +28,4 @@ CSS recreation of the Madagascar flag with vertical and horizontal stripes.
 - Nested container layouts
 
 ## 🚀 Live Demo
-*Link to be added after deployment*
+🔗 [View Live Demo](https://frontend-mini-projects-lovat.vercel.app/10-Madagascar%20Flag/)
