@@ -1,0 +1,78 @@
+<!Doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"content="width=device-width, initial-scale=1.0">
+    <title>Neon Indicator</title>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+</head>
+<body>
+    <div class="container">
+        <div class="navigation">
+
+            <ul>
+                <li class="list active">
+                    <a href="#">
+                        <span class="icon">
+                            <img src="file.svg" alt="file" width="15px" height="15px">
+                        </span>
+
+                        <span class="text">File</span>
+                    </a>
+                </li>
+
+                <li class="list">
+                    <a href="#">
+                        <span class="icon">
+                            <img src="globe.svg" alt="globe" width="15px" height="15px">
+                        </span>
+                        <span class="text">Globe</span>
+                    </a>
+                </li>
+
+                <li class="list">
+                    <a href="#">
+                        <span class="icon">
+                            <img src="window.svg" alt="window" width="15px" height="15px">
+                        </span>
+                        <span class="text">Window</span>
+                    </a>
+                </li>
+
+                <li class="list">
+                    <a href="#">
+                        <span class="icon">
+                            <img src="x.svg" alt="x" width="15px" height="15px">
+                        </span>
+                        <span class="text">X</span>
+                    </a>
+                </li>
+
+                <li class="list">
+                    <a href="#">
+                        <span class="icon">
+                            <img src="facebook.svg" alt="facebook" width="15px" height="15px">
+                        </span>
+                        <span class="text">Facebook</span>
+                    </a>
+                </li>
+                <div class="indicator"></div>
+
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        const list = document.querySelectorAll('.list');
+        function activeLink(){
+            list.forEach((item) =>
+            item.classList.remove('active'));
+            this.classList.add('active');
+        }
+        list.forEach((item) =>
+        item.addEventListener('click',activeLink))
+    </script>
+</body>
+</html>

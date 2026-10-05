@@ -1,0 +1,101 @@
+html{
+    height: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgb(25, 82, 8)80%);
+}
+
+.login-box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    padding: 40px;
+    transform: translate(-50%,-50%);
+    background-color: rgba(0,0,0,0.5);
+    box-sizing: border-box;
+    box-shadow: 0 0 5px #03f437,
+                0 0 25px #03f437,
+                0 0 50px #03f437;
+    border: 1px solid #03f437;
+    border-radius: 2em;
+    transition: .5s ease;
+}
+
+.login-box h2{
+    margin: 0 0 30px;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+
+.login-box .user-box{
+    position: relative;
+}
+
+.login-box .user-box input{
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: white;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+    background-color: transparent;
+}
+
+.login-box .user-box label{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px 0;
+    font-size: 16px;
+    color: white;
+    pointer-events: none;
+    transition: .5s;
+}
+
+.login-box .user-box input:focus ~ label,
+.login-box .user-box input:valid ~ label{
+    top: -20px;
+    left: 0;
+    color: #03f437;
+    font-size: 12px;
+}
+.login-box form a{
+    position: relative;
+    display: inline-block;
+    padding: 10px 20px;
+    color: #03f437;
+    font-size: 16px;
+    border-radius: 25px;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    transform: .5s;
+    margin-top: 40px;
+    letter-spacing: 4px;
+}
+
+.login-box a:hover{
+    background-color: #03f437;
+    color: white;
+    border: 5px;
+    box-shadow: 0 0 5px #03f437,
+                0 0 25px #03f437,
+                0 0 50px #03f437,
+                0 0 100px #03f437;
+}
+
+.login-box a span{
+    position: absolute;
+    display: block;
+}
+
+.remember{
+    color: white;
+}

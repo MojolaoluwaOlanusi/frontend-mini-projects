@@ -1,0 +1,45 @@
+html, body {
+    margin: 0;
+    padding:0;
+    background: #cedDe2;
+}
+
+:root {
+    --toggle-switch-bg: #232428;
+    --toggle-border: #232428;
+    --toggle-bg: #fff;
+    --circle-size: 40px;
+    --toggle-width: 100px;
+}
+
+.toggle-wrap {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.toggle-input {
+    display: none;
+}
+
+label {
+    width: var(--toggle-width);
+    height: var(--circle-size);
+    border: 3px solid var(--toggle-border);
+    border-radius: var(--circle-size);
+    padding: .25em;
+    background: var(--toggle-bg);
+}
+
+.toggle-switch {
+    height: var(--circle-size);
+    width: var(--circle-size);
+    background: var(--toggle-switch-bg);
+    border-radius: 50%;
+    transition: all .5s;
+}
+
+.toggle-input:checked ~ .toggle-switch {
+    transform: translateX(calc(var(--toggle-width) - var(--circle-size)));
+}

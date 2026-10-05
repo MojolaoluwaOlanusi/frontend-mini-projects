@@ -1,0 +1,56 @@
+.github-graph {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: #0d1117;
+    color: #c9d1d9;
+    padding: 20px;
+    border-radius: 8px;
+    width: fit-content;
+  }
+  
+  .github-graph h2 {
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 8px;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(52, 1fr); /* 52 weeks */
+    grid-template-rows: repeat(7, 1fr); /* 7 days */
+    gap: 3px;
+  }
+  
+  .square {
+    width: 11px;
+    height: 11px;
+    border-radius: 2px;
+    background-color: #161b22; /* level 0 */
+  }
+  
+  .square[data-level="1"] { background-color: #0e4429; }
+  .square[data-level="2"] { background-color: #006d32; }
+  .square[data-level="3"] { background-color: #26a641; }
+  .square[data-level="4"] { background-color: #39d353; }
+  
+  .legend {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 12px;
+    margin-bottom: 8px;
+    justify-content: flex-end;
+  }
+  .legend-squares {
+    display: flex;
+    gap: 2px;
+  }
+  .legend-squares div {
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+  }
+  .legend-squares div:nth-child(1){background:#161b22}
+  .legend-squares div:nth-child(2){background:#0e4429}
+  .legend-squares div:nth-child(3){background:#006d32}
+  .legend-squares div:nth-child(4){background:#26a641}
+  .legend-squares div:nth-child(5){background:#39d353}

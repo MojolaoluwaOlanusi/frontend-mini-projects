@@ -1,0 +1,109 @@
+*,
+*:before,
+*:after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+body{
+    background-color: #0a0a0a;
+}
+nav{
+    height: 100vh;
+    width: 70vh;
+    min-width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+}
+nav a{
+    position: relative;
+    padding: 0 10px;
+    font-size: 32px;
+    color: rgb(215,215,215);
+    text-decoration: none;
+}
+a:after{
+    content: "";
+    position: absolute;
+    background-color: red;
+    height: 4px;
+    width: 0;
+    left: 0;
+    bottom: -10px;
+    transition: 0.4s ease;
+    border-radius: 25px;
+}
+a:nth-child(2):after{
+    content: "";
+    position: absolute;
+    background-color: rgb(170,0,255);
+    height: 4px;
+    width: 0;
+    left: 0;
+    bottom: -10px;
+    transition: 0.4s ease;
+    border-radius: 25px;
+}
+a:nth-child(3):after{
+    content: "";
+    position: absolute;
+    background-color: rgb(81,255,0);
+    height: 4px;
+    width: 0;
+    left: 0;
+    bottom: -10px;
+    transition: 0.4s ease;
+    border-radius: 25px;
+}
+a:last-child:after{
+    content: "";
+    position: absolute;
+    background-color: rgb(0,4,255);
+    height: 4px;
+    width: 0;
+    left: 0;
+    bottom: -10px;
+    transition: 0.4s ease;
+    border-radius: 25px;
+}
+a:hover{
+    color: white;
+}
+a:hover:after{
+    width: 100%;
+    box-shadow: 0 0 5px #f40303,
+                0 0 25px #f40303,
+                0 0 50px #f40303,
+                0 0 100px #f40303,
+                0 0 200px #f40303;
+}
+a:nth-child(2):hover:after{
+    width: 100%;
+    background-color: rgb(170,0,255);
+    box-shadow: 0 0 5px rgb(170,0,255),
+                0 0 25px rgb(170,0,255),
+                0 0 50px rgb(170,0,255),
+                0 0 100px rgb(170,0,255),
+                0 0 200px rgb(170,0,255);
+}
+a:nth-child(3):hover:after{
+    width: 100%;
+    background-color: rgb(81,255,0);
+    box-shadow: 0 0 5px rgb(81,255,0),
+                0 0 25px rgb(81,255,0),
+                0 0 50px rgb(81,255,0),
+                0 0 100px rgb(81,255,0),
+                0 0 200px rgb(81,255,0);
+}
+a:last-child:hover:after{
+    width: 100%;
+    background-color: rgb(0,4,255);
+    box-shadow: 0 0 5px rgb(0,4,255),
+                0 0 25px rgb(0,4,255),
+                0 0 50px rgb(0,4,255),
+                0 0 100px rgb(0,4,255),
+                0 0 200px rgb(0,4,255);
+}

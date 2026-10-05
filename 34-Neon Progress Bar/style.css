@@ -1,0 +1,49 @@
+*,
+*:before,
+*:after{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background: black;
+    min-height: 100vh;
+}
+.container{
+    height: 400px;
+    width: 400px;
+    background-color: rgba(202,202,202,0.075);
+    backdrop-filter: blur(20px);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border: 1px solid rgba(255,255,255,0.148);
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+}
+.circular-progress{
+    position: relative;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+}
+.circular-progress:before{
+    content: "";
+    border: 2px solid #ebebeb;
+    position: absolute;
+    height: 84%;
+    width: 84%;
+    background-color: white;
+    border-radius: 50%;
+}
+.value-container{
+    position: relative;
+    font-family: 'Poppins',sans-serif;
+    font-size: 50px;
+    color: black;
+}

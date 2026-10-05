@@ -84,66 +84,68 @@ GitHub-style contributions graph (blue version). Learn about grid layouts, dynam
 #### 26-Github Contributions Graph
 GitHub-style contributions graph with multiple colors. Learn about conditional styling, grid systems, and representing data patterns.
 
-### Advanced Projects (27-44)
+### Advanced Projects (27-38)
 
 #### 27-About Me Page
 Personal about me page with profile image and buttons. Learn about page layouts, responsive design, and personal branding elements.
 
-#### 28-Calculator 3D
-3D-styled calculator with functional buttons. Learn about 3D CSS transforms, calculator logic, and JavaScript event handling.
-
-#### 29-Calculator Glass
-Glassmorphism-styled calculator. Learn about backdrop filters, glass effects, and modern UI design trends.
-
-#### 30-Color Flipper
-Interactive color flipper that changes background colors. Learn about DOM manipulation, event listeners, and color generation.
-
-#### 31-Contact Form
-Styled contact form with background image. Learn about form layouts, input styling, and background image handling.
-
-#### 32-Cursor Animation
-Custom cursor animation effects. Learn about cursor styling, mouse event tracking, and custom animations.
-
-#### 33-Glass Form
-Glassmorphism-styled form with video background. Learn about glass effects, video backgrounds, and form styling.
-
-#### 34-Login Form
+#### 28-Login Form
 Classic login form with background image. Learn about form validation, input styling, and authentication UI patterns.
 
-#### 35-Neon Button
+#### 29-Neon Button
 Neon glow effect button. Learn about box-shadow effects, hover states, and glowing animations.
 
-#### 36-Neon Effect Navbar
+#### 30-Neon Effect Navbar
 Neon-styled navigation bar with icons. Learn about navbar layouts, icon integration, and neon glow effects.
 
-#### 37-Neon Indicator
+#### 31-Neon Indicator
 Neon-style indicator component. Learn about发光 effects, indicator patterns, and visual feedback.
 
-#### 38-Neon Login
+#### 32-Neon Login
 Neon-styled login form. Learn about combining neon effects with forms, dark mode design, and glow animations.
 
-#### 39-Neon Login Checkbox
+#### 33-Neon Login Checkbox
 Neon-styled login form with checkbox. Learn about custom checkbox styling, neon effects on form elements, and interactive states.
 
-#### 40-Neon Progress Bar
+#### 34-Neon Progress Bar
 Animated neon progress bar. Learn about combining neon effects with progress indicators and JavaScript-driven animations.
 
-#### 41-Neon Underline
+#### 35-Neon Underline
 Neon underline effect on hover. Learn about pseudo-elements, hover animations, and text decoration effects.
 
-#### 42-Palindrome Checker
+#### 36-Palindrome Checker
 JavaScript palindrome checker tool. Learn about string manipulation, JavaScript logic, and algorithm implementation.
 
-#### 43-Password Generator
+#### 37-Password Generator
 Secure password generator with options. Learn about random string generation, form controls, and security best practices.
 
-#### 44-StopWatch
+#### 38-StopWatch
 Functional stopwatch with start/stop/reset. Learn about timing functions, JavaScript intervals, and state management.
+
+### Advanced Projects (39-44) - *Not Deployed*
+
+#### 39-Calculator 3D
+3D-styled calculator with functional buttons. Learn about 3D CSS transforms, calculator logic, and JavaScript event handling.
+
+#### 40-Calculator Glass
+Glassmorphism-styled calculator. Learn about backdrop filters, glass effects, and modern UI design trends.
+
+#### 41-Color Flipper
+Interactive color flipper that changes background colors. Learn about DOM manipulation, event listeners, and color generation.
+
+#### 42-Contact Form
+Styled contact form with background image. Learn about form layouts, input styling, and background image handling.
+
+#### 43-Cursor Animation
+Custom cursor animation effects. Learn about cursor styling, mouse event tracking, and custom animations.
+
+#### 44-Glass Form
+Glassmorphism-styled form with video background. Learn about glass effects, video backgrounds, and form styling.
 
 ## 🎯 Learning Path
 
 1. **Start with CSS Fundamentals (01-26)**: Begin with basic styling and progressively learn about layouts, animations, and complex designs.
-2. **Move to Advanced Projects (27-44)**: Apply your CSS knowledge to build interactive applications with JavaScript functionality.
+2. **Move to Advanced Projects (27-38)**: Apply your CSS knowledge to build interactive applications with JavaScript functionality.
 3. **Practice and Experiment**: Modify existing projects to understand concepts better and create your own variations.
 
 ## 🛠️ Technologies Used
