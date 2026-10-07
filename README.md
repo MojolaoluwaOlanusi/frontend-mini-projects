@@ -129,7 +129,7 @@ Neon-styled navigation bar with icons. Learn about navbar layouts, icon integrat
 🔗 [Live Demo](https://frontend-mini-projects-lovat.vercel.app/30-Neon%20Effect%20Navbar/)
 
 #### 31-Neon Indicator
-Neon-style indicator component. Learn about发光 effects, indicator patterns, and visual feedback.
+Neon-style indicator component. Learn about effects, indicator patterns, and visual feedback.
 🔗 [Live Demo](https://frontend-mini-projects-lovat.vercel.app/31-Neon%20Indicator/)
 
 #### 32-Neon Login
