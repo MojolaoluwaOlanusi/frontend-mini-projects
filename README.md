@@ -110,7 +110,7 @@ GitHub-style contributions graph (blue version). Learn about grid layouts, dynam
 GitHub-style contributions graph with multiple colors. Learn about conditional styling, grid systems, and representing data patterns.
 🔗 [Live Demo](https://frontend-mini-projects-lovat.vercel.app/26-Github%20Contributions%20Graph/)
 
-### Advanced Projects (27-38)
+### Advanced Projects (27-49)
 
 #### 27-About Me Page
 Personal about me page with profile image and buttons. Learn about page layouts, responsive design, and personal branding elements.
@@ -160,30 +160,54 @@ Secure password generator with options. Learn about random string generation, fo
 Functional stopwatch with start/stop/reset. Learn about timing functions, JavaScript intervals, and state management.
 🔗 [Live Demo](https://frontend-mini-projects-lovat.vercel.app/38-StopWatch/)
 
-### Advanced Projects (39-44) - *Not Deployed*
-
 #### 39-Calculator 3D
 3D-styled calculator with functional buttons. Learn about 3D CSS transforms, calculator logic, and JavaScript event handling.
+🔗 [Live Demo](https://frontend-mini-projects-lovat.vercel.app/39-Calculator%203D/)
 
 #### 40-Calculator Glass
 Glassmorphism-styled calculator. Learn about backdrop filters, glass effects, and modern UI design trends.
+🔗 [Live Demo](https://frontend-mini-projects-lovat.vercel.app/40-Calculator%20Glass/)
 
 #### 41-Color Flipper
 Interactive color flipper that changes background colors. Learn about DOM manipulation, event listeners, and color generation.
+🔗 [Live Demo](https://frontend-mini-projects-lovat.vercel.app/41-Color%20Flipper/)
 
 #### 42-Contact Form
 Styled contact form with background image. Learn about form layouts, input styling, and background image handling.
+🔗 [Live Demo](https://frontend-mini-projects-lovat.vercel.app/42-Contact%20Form/)
 
 #### 43-Cursor Animation
 Custom cursor animation effects. Learn about cursor styling, mouse event tracking, and custom animations.
+🔗 [Live Demo](https://frontend-mini-projects-lovat.vercel.app/43-Cursor%20Animation/)
 
 #### 44-Glass Form
-Glassmorphism-styled form with video background. Learn about glass effects, video backgrounds, and form styling.
+Glassmorphism-styled form with modern design. Learn about glass effects, backdrop filters, and form styling.
+🔗 [Live Demo](https://frontend-mini-projects-lovat.vercel.app/44-Glass%20Form/)
+
+#### 45-CSS Grid Layout
+A demonstration of CSS Grid layout system with a 3x3 grid. Learn about grid-template-columns, grid-template-rows, and grid positioning.
+🔗 [Live Demo](https://frontend-mini-projects-lovat.vercel.app/45-CSS%20Grid%20Layout/)
+
+#### 46-CSS Flexbox Layout
+A demonstration of CSS Flexbox layout system. Learn about justify-content, align-items, flex gap, and responsive flexbox design.
+🔗 [Live Demo](https://frontend-mini-projects-lovat.vercel.app/46-CSS%20Flexbox%20Layout/)
+
+#### 47-CSS Variables
+A demonstration of CSS custom properties (variables) for theming. Learn about :root selector, var() function, and theme management.
+🔗 [Live Demo](https://frontend-mini-projects-lovat.vercel.app/47-CSS%20Variables/)
+
+#### 48-CSS Transitions
+A demonstration of CSS transitions for smooth state changes. Learn about transition property, duration, timing function, and hover states.
+🔗 [Live Demo](https://frontend-mini-projects-lovat.vercel.app/48-CSS%20Transitions/)
+
+#### 49-CSS Animations
+A demonstration of CSS keyframe animations. Learn about @keyframes rule, animation property, duration, and transform animations.
+🔗 [Live Demo](https://frontend-mini-projects-lovat.vercel.app/49-CSS%20Animations/)
 
 ## 🎯 Learning Path
 
 1. **Start with CSS Fundamentals (01-26)**: Begin with basic styling and progressively learn about layouts, animations, and complex designs.
-2. **Move to Advanced Projects (27-38)**: Apply your CSS knowledge to build interactive applications with JavaScript functionality.
+2. **Move to Advanced Projects (27-49)**: Apply your CSS knowledge to build interactive applications with JavaScript functionality.
 3. **Practice and Experiment**: Modify existing projects to understand concepts better and create your own variations.
 
 ## 🛠️ Technologies Used
